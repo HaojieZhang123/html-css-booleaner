@@ -20,6 +20,10 @@ address{
     color: #808080;
 }
 
+thead{
+    background-color: #20a9e5;
+}
+
 .logo{
     height: 50px;
     margin-top: 50px;
@@ -41,8 +45,20 @@ address{
     margin-top: 15px;
 }
 
+.highlight{
+    background-color: yellow;
+}
+
 .list{
     padding-left: 20px;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.blue-row{
+    background-color: #b1e5f2;
+}
+
+.white-row{
+    background-color: #f2f2f2;
 }
