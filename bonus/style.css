@@ -25,6 +25,7 @@ table{
 }
 
 thead{
+    text-align: left;
     background-color: #20a9e5;
     color: white;
 }
@@ -46,6 +47,7 @@ h2{
 
 .author{
     color: #3cb4e7;
+    font-weight: 100;
 }
 
 .date{
@@ -71,11 +73,11 @@ h2{
 }
 
 .cell{
-    width: 30%;
+    width: 25%;
 }
 
 .cell2{
-    width: 40%;
+    width: 50%;
 }
 
 .blue-row{
