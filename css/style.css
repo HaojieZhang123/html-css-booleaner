@@ -36,3 +36,13 @@ address{
 .caption{
     font-size: 0.75em;
 }
+
+.paragraph{
+    margin-top: 15px;
+}
+
+.list{
+    padding-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
